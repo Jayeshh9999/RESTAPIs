@@ -1,6 +1,9 @@
 # RESTAPIs
 CRUD REST API using Python3, Flask, FastAPI and PostgreSQL database
 
+This project demonstrates practical REST API development patterns with Flask and FastAPI.
+It includes CRUD examples backed by in-memory data and PostgreSQL.
+
 # Task
 - Import Flask and FastAPI packages 
 - Use In-memory list approach for REST API CRUD(GET,POST,PUT,DELETE) methods
